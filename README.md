@@ -1,9 +1,13 @@
 Directory structure: Organize your code and related files in the following directory structure:
 
-```ft_package/\n├── ft_package/
-│   ├── __init__.py\n│   └── count_in_list.py
+```
+ft_package/
+├── ft_package/
+│   ├── __init__.py
+│   └── count_in_list.py
 ├── setup.py
 └── README.md
+
 ```
 
 Building the package: Navigate to the root directory (ft_package) and run the following command to build your package:
