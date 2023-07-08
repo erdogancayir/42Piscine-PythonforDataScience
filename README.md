@@ -1,4 +1,4 @@
-Lang 🇬🇧
+Lang 🇬🇧 <br><br>
 Directory structure: Organize your code and related files in the following directory structure:
 
 ```
@@ -28,7 +28,7 @@ You can also check if your package is installed and its details by running pip s
 
 Please note, if you want your package to be available for others to install via PyPI (Python Package Index), you will need to upload your package there. This involves creating an account and following the upload instructions. However, this step is not necessary if you just want to create a package for local use or distribution.
 
-Dil 🇹🇷🇹🇷
+Dil 🇹🇷🇹🇷 <br><br>
 Dizin Yapısı: Kodunuzu ve ilgili dosyaları aşağıdaki dizin yapısında organize edin:
 ```
 ft_package/
