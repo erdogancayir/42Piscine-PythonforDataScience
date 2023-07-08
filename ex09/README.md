@@ -26,7 +26,7 @@ print(count_in_list(["toto", "tata", "toto"], "toto"))  # output: 2
 ```
 
 
-You can also check if your package is installed and its details by running pip show -v ft_package.
+You can also check if your package is installed and its details by running pip show -v ft_package.<br>
 ``` pip show -v ft_package ```
 
 Please note, if you want your package to be available for others to install via PyPI (Python Package Index), you will need to upload your package there. This involves creating an account and following the upload instructions. However, this step is not necessary if you just want to create a package for local use or distribution.
@@ -56,7 +56,7 @@ from ft_package import count_in_list
 print(count_in_list(["toto", "tata", "toto"], "toto"))  # output: 2
 ”print(count_in_list(["toto", "tata", "toto"], "tutu"))  # output: 0
 ```
-Ayrıca pip show -v ft_package komutunu çalıştırarak paketin yüklendiğini ve detaylarını kontrol edebilirsiniz.
+Ayrıca pip show -v ft_package komutunu çalıştırarak paketin yüklendiğini ve detaylarını kontrol edebilirsiniz.<br>
 ``` pip show -v ft_package ```
 
 Lütfen unutmayın, paketinizin PyPI (Python Package Index) üzerinden başkaları tarafından yüklenmesini istiyorsanız, paketinizi oraya yüklemeniz gerekecektir. Bu, bir hesap oluşturmayı ve yükleme talimatlarını takip etmeyi içerir. Ancak eğer sadece yerel kullanım veya dağıtım için bir paket oluşturmak istiyorsanız, bu adım gerekli değildir.
