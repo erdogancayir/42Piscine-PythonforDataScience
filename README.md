@@ -1,6 +1,8 @@
 # 42Piscine-PythonforDataScience
+![42ai_logo](https://github.com/erdogancayir/42Piscine-PythonforDataScience/assets/94300378/1292311d-834c-43ce-b368-5dd9e3f75a7a)
 
 <h1 align="center">Python for Data Science Piscine</h1>
+
 <p align="center">
   A series of projects, part of the École 42 curriculum, designed to deepen the understanding of Python and its application in data science. This project is particularly suitable for common core graduate students.
 </p>
