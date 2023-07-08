@@ -1,7 +1,9 @@
 # 42Piscine-PythonforDataScience
 
 <h1 align="center">Python for Data Science Piscine</h1>
-
+<p align="center">
+  A series of projects, part of the École 42 curriculum, designed to deepen the understanding of Python and its application in data science. This project is particularly suitable for common core graduate students.
+</p>
 <p align="center">
   A series of projects to deepen your understanding of Python and its application in data science.
 </p>
