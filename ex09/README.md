@@ -29,6 +29,17 @@ print(count_in_list(["toto", "tata", "toto"], "toto"))  # output: 2
 You can also check if your package is installed and its details by running pip show -v ft_package.<br>
 ``` pip show -v ft_package ```
 
+#### How to remove ?
+                                                                                                                                          
+```
+└─$ pip show -v ft_package       
+Name: ft-package
+Version: 0.0.1
+
+└─$ sudo pip uninstall <name>
+
+```
+
 Please note, if you want your package to be available for others to install via PyPI (Python Package Index), you will need to upload your package there. This involves creating an account and following the upload instructions. However, this step is not necessary if you just want to create a package for local use or distribution.
 
 Dil 🇹🇷🇹🇷 <br><br>
