@@ -1,6 +1,9 @@
 Directory structure: Organize your code and related files in the following directory structure:
 
-```ft_package/\n├── ft_package/\n│   ├── __init__.py\n│   └── count_in_list.py\n├── setup.py\n└── README.md```
+```ft_package/\n├── ft_package/
+│   ├── __init__.py\n│   └── count_in_list.py
+├── setup.py
+└── README.md```
 
 Building the package: Navigate to the root directory (ft_package) and run the following command to build your package:
 ```python setup.py sdist bdist_wheel```
