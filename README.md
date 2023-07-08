@@ -1,5 +1,5 @@
 # 42Piscine-PythonforDataScience
-<div>![42ai_logo](https://github.com/erdogancayir/42Piscine-PythonforDataScience/assets/94300378/1292311d-834c-43ce-b368-5dd9e3f75a7a){:height="36px" width="36px"}<div>
+<img src="https://github.com/erdogancayir/42Piscine-PythonforDataScience/assets/94300378/1292311d-834c-43ce-b368-5dd9e3f75a7a" alt="42ai_logo" style="width: 100px; height: 100px;">
 <h1 align="center">Python for Data Science Piscine</h1>
 
 <p align="center">
