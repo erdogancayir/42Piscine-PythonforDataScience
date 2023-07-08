@@ -58,7 +58,7 @@ Structure Design
 
 ## Author
 
-<a href="[YOUR_GITHUB_PROFILE_LINK](https://github.com/erdogancayir)">Erdogan CAYIR</a>
+<a href="https://github.com/erdogancayir">Erdogan CAYIR</a>
 
 <hr/>
 
