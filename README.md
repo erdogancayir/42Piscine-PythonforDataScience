@@ -31,7 +31,7 @@ Introduction about the basics of the Python Programming Language.
 
 ## Python - 1 - Array
 Description of the Python - 1 -
- Discovery of arrays, their manipulations, and work on images.
+ Discovery of arrays, their manipulations, and work on images. <br>
  Numpy or any lib of table manipulation
 <hr/>
 
