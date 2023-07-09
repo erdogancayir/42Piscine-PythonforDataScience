@@ -34,7 +34,7 @@ Description of the Python - 1 -
 Discovery of arrays, their manipulations, and work on images. <br>
 Numpy or any lib of table manipulation<br>
 The Python Imaging Library (PIL) Image<br>
-Matplotlib.pyplot <Br>
+Matplotlib pyplot <Br>
 <hr/>
 
 ## Python - 2 - DataTable
