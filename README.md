@@ -24,28 +24,31 @@
 <hr/>
 
 ## Python - 0 - Starting
-Description of the Python - 0 - Starting project goes here.
+Description of the Python - 0 -
 Introduction about the basics of the Python Programming Language. 
 
 <hr/>
 
 ## Python - 1 - Array
-Description of the Python - 1 - Array project goes here.
- Discovery of arrays, their manipulations, and work on images. 
+Description of the Python - 1 -
+Discovery of arrays, their manipulations, and work on images. <br>
+Numpy or any lib of table manipulation<br>
+The Python Imaging Library (PIL) Image<br>
+Matplotlib pyplot <Br>
 <hr/>
 
 ## Python - 2 - DataTable
-Description of the Python - 2 - DataTable project goes here.
+Description of the Python - 2 -
 Load, manipulate and display datatable. 
 <hr/>
 
 ## Python - 3 - OOP
-Description of the Python - 3 - OOP project goes here.
+Description of the Python - 3 -
 Classes and the heritage in Python. 
 <hr/>
 
 ## Python - 4 - Dod
-Description of the Python - 4 - Dod project goes here.
+Description of the Python - 4 -
 Structure Design 
 <hr/>
 
