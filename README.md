@@ -1,6 +1,6 @@
 # 42Piscine-PythonforDataScience
 <p align="center">
-  <img width="200" height="100" src="https://github.com/erdogancayir/42Piscine-PythonforDataScience/assets/94300378/1292311d-834c-43ce-b368-5dd9e3f75a7a">
+  <img width="200" height="100" src="https://raw.githubusercontent.com/42-AI/bootcamp_machine-learning/master/assets/42ai_logo.png">
 </p>
 <h1 align="center">Python for Data Science Piscine</h1>
 
