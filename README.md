@@ -45,7 +45,7 @@ Load, manipulate and display datatable.
 
 ## Python - 3 - OOP
 Description of the Python - 3 -
-Classes and the heritage in Python. 
+Classes and the heritage in Python.  Object-oriented programming
 <hr/>
 
 ## Python - 4 - Dod
